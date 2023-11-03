@@ -1,2 +1,2 @@
-# microbime_taxonomy
-This is programing of master thesis.
+# microbiome-analysis-taxonomy
+This is Geralt Lai project.
