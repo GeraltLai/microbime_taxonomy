@@ -59,7 +59,7 @@ tax_data = function(case_genus, control_genus){
   return(tax)
 }
 
-# weighted  bray-cruits function
+# weighted  bray-curits function
 weighted_bray = function(data){
   matrix = diag(x = 1, nrow = nrow(data))
   for(ii in 1:(nrow(data)-1))
